@@ -2,7 +2,7 @@
 The music I've composed/arranged.
 
 ## Compositions
-### Hanafueda
+### Hanafeuda
 A card battler inspired by _Balatro_ and the traditional Japanese card game Hanafuda. The 8-bit soundtrack was created to match the pixel art style of the game.
 
 ### Wicket
